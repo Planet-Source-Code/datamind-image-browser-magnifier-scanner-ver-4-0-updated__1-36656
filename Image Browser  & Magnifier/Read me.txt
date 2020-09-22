@@ -1,0 +1,21 @@
+---------------------------------------------------------
+           IMAGE BROWSER & MAGNIFIER 
+---------------------------------------------------------
+1)Introduction             
+2)How to
+-----------------------------------------------------------
+1)This program was created in order to combine multiple
+applications in one.IMAGE BROWSER & MAGNIFIER can be used
+as a search application as it can find all image based files Like
+Bitmaps,Vector,Windows Meta Files,jpgs,Icons etc.It can also magnify
+these files.Furthermore it can show you the date and the time any time
+you want.With this ability you dont need to close all the applications 
+that are currenty running to see the clock on the task bar.An other
+ability is that it can open the notepad any time and write your note.
+This is my first simple program and i'd like you to try it.Be sure that
+in the second version it will offer you many more "combined" applications.
+Thanks for trying this software!
+
+
+2)To magnify a picture you only have to click as many times as you wish
+in the second picture box.
